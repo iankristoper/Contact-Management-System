@@ -2,10 +2,6 @@ package com.ian.contact_management_system;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Ian Tagano
- */
 
 public class Contact_Management_System 
 {
